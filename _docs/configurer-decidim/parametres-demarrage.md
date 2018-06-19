@@ -1,7 +1,7 @@
 ---
 title: Renseigner les parametres de démarrage
 category: Configurer Decidim
-order: 3
+order: 2
 ---
 Rejoignez les paramètres ; la première page permet de modifier les paramètres de configuration de la plateforme :
 
