@@ -1,0 +1,84 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: order
+  label: Order
+  type: text
+  hidden: false
+  default: ''
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: default
+- name: seo
+  label: Seo
+  type: field_group
+  fields:
+  - name: type
+    label: Type
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: 
+- name: _comments
+  label: " comments"
+  type: field_group
+  fields:
+  - name: category
+    label: Category
+    type: tag_list
+    hidden: false
+    default: ''
+  - name: order
+    label: Order
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: 
+- name: _options
+  label: " options"
+  type: field_group
+  fields:
+  - name: content
+    label: Content
+    type: field_group
+    fields:
+    - name: width
+      label: Width
+      type: text
+      hidden: false
+      default: ''
+    - name: height
+      label: Height
+      type: text
+      hidden: false
+      default: ''
+    hidden: false
+    default: ''
+  hidden: false
+  default: 
+pages:
+- _docs/utilisateurs/index.md
+- _docs/configurer-decidim/parametres-demarrage.md
+- _docs/configurer-decidim/index.md
+- _docs/configurer-decidim/espace-admin.md
+- _docs/concertations/index.md

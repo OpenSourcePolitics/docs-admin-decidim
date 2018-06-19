@@ -1,0 +1,38 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: type
+  label: Type
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: default
+- name: _comments
+  label: " comments"
+  type: field_group
+  fields:
+  - name: type
+    label: Type
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: 
+pages:
+- _posts/2016-02-05-general-fixes-and-improvements.md
+- _posts/2016-01-12-media-support.md
