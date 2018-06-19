@@ -77,8 +77,8 @@ fields:
   hidden: false
   default: 
 pages:
+- _docs/configurer-decidim/espace-admin.md
 - _docs/utilisateurs/index.md
 - _docs/configurer-decidim/parametres-demarrage.md
 - _docs/configurer-decidim/index.md
-- _docs/configurer-decidim/espace-admin.md
 - _docs/concertations/index.md
