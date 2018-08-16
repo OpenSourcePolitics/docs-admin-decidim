@@ -1,6 +1,6 @@
 ---
 title: 5.1 Configurer une intiiative
-category: 5 Initiatives
+category: 5. Initiatives
 order: 2
 ---
 

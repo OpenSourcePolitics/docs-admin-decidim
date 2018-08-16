@@ -4,7 +4,7 @@ category: 2. Utilisateurs
 order: 1
 ---
 
-Gérer les utilisateurs implique notamment d'inviter d'autres administrateurs, de valider des groupes d'utilisateurs qui se sont inscrit et dont l'existence effective a été validée, gérer des comptes temporaires d'utilisateurs, officialiser le rôle d'un utilisateur ou encore valider son identité.
+Gérer les utilisateurs implique notamment d'inviter d'autres administrateurs, de valider des groupes d'utilisateurs qui se sont inscrits et dont l'existence effective a été validée, gérer des comptes temporaires d'utilisateurs, officialiser le rôle d'un utilisateur ou encore valider son identité.
 
 1. [Créer un compte utilisateur]({{site.baseurl}}/2-utilisateurs/1-creer-compte-utilisateur/)
 2. [Inviter des utilisateurs]({{site.baseurl}}/2-utilisateurs/2-inviter-utilisateur/)

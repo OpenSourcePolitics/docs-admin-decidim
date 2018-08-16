@@ -12,13 +12,13 @@ order: 4
 **Voir le contenu d'un espace privé et non-transparent dont il n'est pas membre** | X | X | X | X | X
 **Faire une proposition** | X | OK | OK | OK | OK
 **Commenter sur un débat ou une proposition** | X | OK | OK | OK | OK
-**Voter pour/suivre une proposition** | X | OK | OK | OK | OK
+**Voter pour/Suivre une proposition** | X | OK | OK | OK | OK
 **Masquer une contribution d'un utilisateur** | X | X | OK | X | OK
 **Répondre à une proposition** | X | X | X | X | OK
 **Publier un résultat** | X | X | X | X | OK
 **Créer un espace de participation** | X | X | X | X | OK
 **Changer les étapes d'une concertation** | X | X | X | X | OK
-**Relire les informations d'espace participatif avant publication** | X | X | X | OK | OK
+**Relire les informations d'un espace participatif avant publication** | X | X | X | OK | OK
 **Envoyer une lettre d'information** | X | X | X | X | OK
 **Créer une intiative** | X | OK | X | X | X
 

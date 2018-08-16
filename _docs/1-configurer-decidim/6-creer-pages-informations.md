@@ -8,7 +8,7 @@ Dans l'onglet "**Pages**" de la barre latérale, Decidim permet de publier des p
 Trois pages sont définies par défaut ; leur identifiant (c'est-à-dire le suffixe de l'url) ne peut pas être modifié, mais leur titre est naturellement modifiable :
 * **faq** : Cette page est directement reliée au bouton "**En savoir plus**" de la section *Comment participer ?* au milieu de la page d'accueil. Nous vous conseillons d'utiliser cette page pour publier une notice ou une charte sur la participation, qui peut prendre la forme d'une foire aux questions.
 * **terms-and-conditions** : C'est sans doute la page la plus importante, puisqu'elle contient les CGU de la plateforme que les utilisateurs doivent accepter au moment de leur inscription. Ces CGU n'ont pas de forme fixe, mais peuvent contenir des règles de bonne conduite ainsi que des information sur la protection des données personnelles et des cookies - vous pouvez vous référer à [la page de notre démo](https://demo.decidim.opensourcepolitics.eu/pages/terms-and-conditions).
-* **accessibility** : Elle sert notamment à documenter les référenciels d'accessibilité de la plateforme. Vous pouvez aussi vous en servir pour indiquer les moyens de vous contacter (notamment par l'intermédiaire des conversations privées sur la plateforme, **cf. 2.X**).
+* **accessibility** : Elle sert notamment à documenter les référenciels d'accessibilité de la plateforme. Vous pouvez aussi vous en servir pour indiquer les moyens de vous contacter (notamment par l'intermédiaire des [conversations privées sur la plateforme]({{site.baseurl}}/2-utilisateurs/6-convertations-privees/)).
 
 Vous pouvez créer d'autres pages, pour intégrer les **mentions légales** du site ou tout autre documentation.
 
@@ -22,4 +22,4 @@ Dans le cas spécifique de la page "**terms-and-conditions**", il est possible d
 
 --
 
-*Suite : Bravo, vous pouvez passer à la [deuxième partie consacrée aux utilisateurs]({{site.baseurl}}/2-utilisateurs/index/)) !*
+*Suite : Bravo, vous pouvez passer à la [deuxième partie consacrée aux utilisateurs]({{site.baseurl}}/2-utilisateurs/0-index/) !*
