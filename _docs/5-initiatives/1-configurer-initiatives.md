@@ -1,5 +1,5 @@
 ---
-title: 5.1 Configurer une intiiative
+title: 5.1 Configurer une initiative
 category: 5. Initiatives
 order: 2
 ---
