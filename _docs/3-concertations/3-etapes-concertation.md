@@ -10,4 +10,8 @@ Les étapes d’un processus participatif ponctuent les différentes phases de v
 
 ![information-concertation]({{site.baseurl}}/uploads/3-3-2-config-etapes-concert.png)
 
-Quand une étape est active, une pastille verte est affichée à gauche de son intitulé. Pour activer une étape cliquez sur la pastille grise (bleue quand la souris passe dessus).
+Quand une étape est active, une pastille verte est affichée à gauche de son intitulé (voir la premiière image). Pour activer une étape, cliquez sur la pastille grise, qui devient bleue quand la souris passe dessus.
+
+--
+
+*Suite : [Configurer les catégories d'une concertation]({{site.baseurl}}/3-concertations/4-categories-concertation/)*

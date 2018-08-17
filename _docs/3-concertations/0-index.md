@@ -4,6 +4,8 @@ category: 3. Concertations
 order: 1
 ---
 
+Suivre les informations suivantes va simplifier considérablement votre besoin de configurer une nouvelle concertation sur Decidim, depuis les informations de base à l'activation des fonctionnalités participatives en passant par la définition des étapes et l'ajout de documents externes. 
+
 1. [Créer une concertation]({{site.baseurl}}/3-concertations/1-creer-concertation/)
 2. [Renseigner les informations d'une concertation]({{site.baseurl}}/3-concertations/2-information-concertation/)
 3. [Configurer les étapes d'une concertation]({{site.baseurl}}/3-concertations/3-etapes-concertation/)
