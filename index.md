@@ -8,7 +8,7 @@ category: Notice Decidim FR
 
 *Cette notice couvre l'ensemble des fonctionnalités de la version 0.12 de Decidim, complétée par les développements réalisés par Open Source Politics.* 
 
-*Le code source est accessible [à cette adresse](https://github.com/OpenSourcePolitics/decidim).*
+*Le code source est accessible [à cette adresse](https://github.com/OpenSourcePolitics/decidim).  Celui de la plateforme de documentation est [ici](https://github.com/OpenSourcePolitics/docs-admin-decidim) ; n'hésitez pas nous soumettre des corrections ou modifications par "pull request".*
 
 --
 
