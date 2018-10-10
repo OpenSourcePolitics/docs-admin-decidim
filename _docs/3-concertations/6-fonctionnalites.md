@@ -32,11 +32,11 @@ ___
 
 **[Suivi](#suivi)** : Pour communiquer les résultats de la concertation et l'avancée des réalisations. Seuls les administrateurs peuvent en publier. Ils peuvent les associer à des catégories et lier des propositions qui ont émergé pendant le processus.
 
-**[Débats](#debats)** : Pour conduire des débats libres initiés par l'administrateur et/ou par les citoyens à travers un fil de commentaire.
+**[Débats](#débats)** : Pour conduire des débats libres initiés par l'administrateur et/ou par les citoyens à travers un fil de commentaire.
 
-**[Tirage au sort](#tirage-au-sort)** : Pour tirer au sort de manière aléatoire une proposition parmi d'autres.
+**[Tirage au sort](#tirage-au-sort)** : Pour tirer au sort de manière aléatoire une ou des propositions parmi d'autres.
 
-**[Actualités](#actualites)** : Pour éditer des articles sous un format "blog de la concertation".
+**[Actualités](#actualités)** : Pour éditer des articles sous un format "blog de la concertation".
 
 
 
@@ -115,7 +115,7 @@ Il n'est possible de configurer qu'une enquête par module "Enquête" et toutes 
 
 ### Page
 
-Vous pouvez éditer des pages qui renseignent l'utilisateur sur la concertation en cours, les méthodes de participation, les objectifs, etc. Pour ajouter une page, cliquer sur "Ajouter une fonctionnalité" dans le menu des fonctionnalités. Vous n'avez accès qu'à un champ de texte classique. 
+Vous pouvez éditer des pages qui renseignent l'utilisateur sur la concertation en cours, les méthodes de participation, les objectifs, etc. Pour ajouter une page, cliquer sur "Ajouter une fonctionnalité" dans le menu des fonctionnalités. Vous n'avez accès qu'à un champ de texte classique.
 
 ![config-page]({{site.baseurl}}/uploads/3-6-8-back-config-page.png)
 
@@ -125,7 +125,7 @@ Le module "Suivi" permet aux utilisateurs de suivre l'avancement des réalisatio
 
 Les réalisations peuvent être transformées en projets ou décomposées en sous-projets, qui décrivent avec plus de détail la mise en oeuvre, et pour lesquels un statut d'exécution peut être défini.
 Vous pouvez définir plusieurs statuts pour vos résultats qui permettront de rendre compte de l’état d’avancement. Le  nom ne sera visible que dans la partie administrateur, il vous permet de l’intégrer dans certaines étapes. À l’inverse, la  description est le texte qui sera visible par les utilisateurs. Vous avez la possibilité de réaliser deux sortes d’actions : modifier ou supprimer.
-Vous pouvez associer vos résultats à des catégories et des propositions qui les ont inspirés. 
+Vous pouvez associer vos résultats à des catégories et des propositions qui les ont inspirés.
 
 Pour sélectionner plusieurs propositions :
 - sous Windows ou Linux : Ctrl + clic gauche
@@ -143,17 +143,46 @@ Pour ajouter un nouveau résultat, cliquez sur "Nouveau résultat" dans le table
 
 Vous devez d'abord créer et configurer un module "Débats" en indiquant à quelle(s) étape(s) l'utilisateur peut créer un débat et/ou commenter (= participer) les débats.
 
-Pour créer un débat d'origine officielle, cliquer sur la fonctionnalité "Débats" dans la barre des fonctionnalités sur la gauche ou sur l'icône "Crayon" dans le tableau de bord du module "Débats", puis cliquez sur "Nouveau débat". 
+Pour créer un débat d'origine officielle, cliquer sur la fonctionnalité "Débats" dans la barre des fonctionnalités sur la gauche ou sur l'icône "Crayon" dans le tableau de bord du module "Débats", puis cliquez sur "Nouveau débat".
 
 ![creer-debat]({{site.baseurl}}/uploads/3-6-10-creer-debat.png)
 
-Vous pouvez choisir dans les options de configuration si les utilisateurs de la plateforme ont aussi la possibilité de créer leurs propres débats ou simplement de participer aux débats officiels. 
+Vous pouvez choisir dans les options de configuration si les utilisateurs de la plateforme ont aussi la possibilité de créer leurs propres débats ou simplement de participer aux débats officiels.
 
 ### Tirage au sort
 
-La fonctionnalité "Tirage au sort" vous permet de sélectionner de manière aléatoire un certain nombre de propositions depuis un groupe de proposition.
+La fonctionnalité "Tirage au sort" vous permet de sélectionner de manière aléatoire un certain nombre de propositions depuis un groupe de propositions. Pour configurer un module "Tirage au sort", vous devez aller dans le sous-menu des fonctionnalités et cliquer sur "Ajouter une fonctionalité". L'écran de configuration du module "Tirage au sort" s'ouvre :
 
-*Elle n'est pas complètement aboutie à ce stade.*
+![ajouter_tirage_au_sort]({{site.baseurl}}/uploads/3-6-12-ajouter_tirage_au_sort.png)
+
+Vous devez renseigner un titre, un rang d’affichage dans la barre de navigation et vous pouvez activer les commentaires sur le module.
+
+Une fois que le module “Tirage au sort” a été configuré, vous pouvez effectuer un tirage sort des propositions. Pour cela, cliquez sur le module “Tirage au sort” dans le sous-menu à gauche. N'oubliez pas de publier le module afin que celui-ci apparaisse dans les étapes de la concertation.
+
+Pour effectuer un tirage au sort, cliquez sur “NOUVEAU TIRAGE AU SORT” puis l’écran de configuration s’ouvre :
+
+![nouveau_tirage]({{site.baseurl}}/uploads/3-6-13-nouveau_tirage.png)
+
+![effectuer_tirage]({{site.baseurl}}/uploads/3-6-14-effectuer_tirage.png)
+
+Les champs à renseigner et à sélectionner sont :
+- **Titre***
+- **Ensemble de propositions*** : groupe de propositions au sein duquel vous souhaitez tirer au sort des propositions.
+- **Catégories des propositions sur lesquelles vous souhaitez appliquer le tirage au sort*** :
+- **Nombre de propositions à sélectionner*** : indiquez le nombre de propositions que vous voulez tirer au sort parmi celles du groupe de propositions que vous avez choisi précédemment.
+- **Témoins*** :
+- **Information sur le tirage au sort**
+- **Résultat de votre tirage au dé.*** : tirez au sort un nombre de 1 à 6, soit à l'aide d'un dé à 6 faces soit par tout autre moyen, et entrez ici le nombre obtenu devant témoin(s). Cette procédure contribue à garantir la sincérité et le caractère aléatoire du résultat.
+
+Une fois les champs renseignés et sélectionnés, cliquez sur "Créer". Une boîte de dialogue s'ouvrira pour confirmer l'exécution du tirage au sort. Effectuer un tirage au sort est irréversible et le résultat est automatiquement publié au sein de votre concertation.
+
+![bd_tirage]({{site.baseurl}}/uploads/3-6-15-bd_tirage.png)
+
+Une fois confirmé, le résultat apparaît dans l'interface d'administrateur ainsi que dans la concertation concernée.
+
+![tirage_admin]({{site.baseurl}}/uploads/3-6-16-tirage_admin.png)
+![tirage_publie]({{site.baseurl}}/uploads/3-6-17-tirage_publie.png)
+
 
 ### Actualités
 
