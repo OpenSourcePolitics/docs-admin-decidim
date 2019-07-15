@@ -77,3 +77,13 @@ defaults:
 types:
   - minor
   - major
+
+prose:
+  rooturl: '_docs'
+  siteurl: 'https://www.opensourcepolitics.eu/docs-admin-decidim/'
+  media: 'images'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
