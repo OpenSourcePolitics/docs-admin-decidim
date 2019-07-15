@@ -64,7 +64,3 @@ Si vous estimez qu'un ticket a été fermé alors que le problème n'est pas ré
 ### Mettre à jour votre compte
 
 Dans le menu "Profil", vous pouvez mettre à jour vos adresse mail, nom complet, mot de passe et fuseau horaire.
-
-### Test
-![carrelage]({{site.baseurl}}/images/82003919-2-0-5694067-v-000100000000.jpg)
-
