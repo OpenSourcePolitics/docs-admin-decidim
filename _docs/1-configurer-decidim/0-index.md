@@ -1,7 +1,8 @@
 ---
 title: Index
 category: 1. Configurer Decidim
-order: 1
+order: 2
+published: true
 ---
 Dans cette première partie de la notice, vous allez configurer votre plateforme Decidim grâce aux étapes suivantes et en vous référant à l'instance de démonstration [demo.decidim.opensourcepolitics.eu](https://demo.decidim.opensourcepolitics.eu) :
 1. [Accéder à l'espace d'administration]({{site.baseurl}}/1-configurer-decidim/1-espace-admin/)
