@@ -4,8 +4,6 @@ category: 1. Configurer Decidim
 order: 3
 published: true
 ---
-## Configuration générale de la plateforme
-
 Rejoignez les "**Paramètres**".
 
 La première page "**Configuration**" permet de modifier les paramètres de démarrage :
