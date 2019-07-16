@@ -2,12 +2,13 @@
 title: 1.5 Déterminer un secteur
 category: 1. Configurer Decidim
 order: 6
+published: true
 ---
 Les paramètres de la plateforme demandent ensuite de définir des secteurs géographiques qui seront appelés comme filtres de tri des propositions ou rencontres. L'interface d'administration peut prêter à confusion avec, d'une part, des *secteurs* qui correspondent à ces secteurs et, d'autre part, des *zones d'application* qui ne concernent que les [assemblées]({{site.baseurl}}/4-assemblees/1-configurer-assemblees). *Nous sommes à la recherche de meilleures traductions pour rendre la distinction plus évidente à l'avenir.*
 
 Du côté des secteurs, il vous est d'abord demandé de définir un ou plusieurs types de secteurs en inscrivant le terme au singulier et au pluriel. Ces types peuvent être des quartiers pour subdiviser des consultations à l'échelle d'une commune, des villes au sein d'une métropole ou d'un département, des services au sein d'une entreprise... Il est également possible de définir un type de lieu dont on déclinera la liste, comme les stades ou les écoles pour mener des consultations thématiques.
 
-![type-secteurs]({{site.baseurl}}/uploads/1-5-1-type-secteur-application.png)
+![secteur.png]({{site.baseurl}}/images/secteur.png)
 
 ![liste-type-secteurs]({{site.baseurl}}/uploads/1-5-2-liste-types-secteur-application.png)
 
