@@ -1,7 +1,7 @@
 ---
 title: Accéder à l'espace d'administration
 category: 1. Configurer Decidim
-order: 2
+order: 3
 published: true
 ---
 Une fois inscrit·e et connecté·e avec un compte administrateur, votre nom apparaît en haut à droite de la barre de navigation principale. En passant votre souris dessus, un menu déroulant apparaît. Sélectionnez "**Tableau de bord des administrateurs**" ou appuyez sur l'icône "crayon" à droite de votre nom pour accéder au panel d'administration de la plateforme.
