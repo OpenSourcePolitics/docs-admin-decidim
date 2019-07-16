@@ -1,5 +1,5 @@
 ---
-title: Renseigner les paramètres de démarrage
+title: Configuration générale de la plateforme
 category: 1. Configurer Decidim
 order: 3
 published: true
