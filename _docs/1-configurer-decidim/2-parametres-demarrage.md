@@ -1,7 +1,7 @@
 ---
 title: Renseigner les paramètres de démarrage
 category: 1. Configurer Decidim
-order: 3
+order: 4
 published: true
 ---
 Rejoignez les "**Paramètres**".
