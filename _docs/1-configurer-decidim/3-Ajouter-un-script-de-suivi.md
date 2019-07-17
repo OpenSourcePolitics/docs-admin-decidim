@@ -8,7 +8,7 @@ Ce morceau de code est à insérer dans l'espace d'administration, dans _Paramè
 
 ![emplacement du code de suivi matomo]({{site.baseurl}}/images/code_suivi.jpg)
 
-Copiez et collez le code à cet endroit. Le code de suivi est maintenant actif !
+Copiez et collez le code dans le cadre _Eléments à ajouter entre les balises HTML_. Le code de suivi est maintenant actif !
 
 --
 
