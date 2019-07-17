@@ -1,3 +1,11 @@
-## A New Post
+---
+category: 2. Personnalisation
+order: 4
+title: 2.3 Les couleurs
+---
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+![couleurs disponibles]({{site.baseurl}}/images/couleurs.png)
+
+--
+
+*Suite : [Organisation des blocs de la page d'accueil]({{site.baseurl}}/2-personnalisation/4-organisation-blocs-accueil/)*
