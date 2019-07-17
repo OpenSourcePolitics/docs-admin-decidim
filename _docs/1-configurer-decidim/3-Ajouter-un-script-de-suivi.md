@@ -8,6 +8,8 @@ Ce morceau de code est à insérer dans l'espace d'administration, dans _Paramè
 
 ![emplacement du code de suivi matomo]({{site.baseurl}}/images/code_suivi.jpg)
 
+Copiez et collez le code à cet endroit. Le code de suivi est maintenant actif !
+
 --
 
 *Suite : [Les messages d'aide]({{site.baseurl}}/1-configurer-decidim/4-les-messages-d'aide/)*
