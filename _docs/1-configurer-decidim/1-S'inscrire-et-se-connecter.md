@@ -2,6 +2,7 @@
 category: 1-configurer-decidim
 order: 2
 published: true
+title: 1.1 S'inscrire et se connecter
 ---
 Avoir un compte sur la plateforme vous permettra d'accéder à l'__ensemble des possibilités de participation__. Pour vous inscrire, cliquez sur le bouton correspondant, en haut à droite de la page d'accueil (voir ci-dessous). 
 
