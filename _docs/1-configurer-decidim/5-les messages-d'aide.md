@@ -14,4 +14,4 @@ Par exemple, pour l'espace Assemblées, vous pouvez imaginer un message d'aide c
 
 --
 
-*Suite : [Créer vos pages d'information]({{site.baseurl}}/1-configurer-decidim/6-creer-pages-informations)* 
+*Suite : [Créer vos pages d'information]({{site.baseurl}}/1-configurer-decidim/6-creer-pages-informations/)* 
