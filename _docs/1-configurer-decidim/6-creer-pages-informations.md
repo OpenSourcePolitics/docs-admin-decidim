@@ -1,7 +1,7 @@
 ---
 title: 1.7 Créer vos pages d'information
 category: 1. Configurer Decidim
-order: 7
+order: 8
 published: true
 ---
 Dans l'onglet "**Pages**" de la barre latérale, Decidim permet de publier des pages statiques comprenant par exemple les conditions d'utilisation et mentions légales de votre plateforme, ou encore des pages d'aide pour expliquer aux utilisateurs les raisons d'être de la plateforme et des différents espaces. Ces pages sont toujours accessibles depuis l'onglet "**Plus d'information**" de la barre de navigation.
