@@ -1,7 +1,7 @@
 ---
 title: 1.5 Déterminer un secteur
 category: 1. Configurer Decidim
-order: 6
+order: 5
 published: true
 ---
 Les paramètres de la plateforme demandent ensuite de définir des secteurs géographiques qui seront appelés comme filtres de tri des propositions ou rencontres. L'interface d'administration peut prêter à confusion avec, d'une part, des *secteurs* qui correspondent à ces secteurs et, d'autre part, des *zones d'application* qui ne concernent que les [assemblées]({{site.baseurl}}/4-assemblees/1-configurer-assemblees). *Nous sommes à la recherche de meilleures traductions pour rendre la distinction plus évidente à l'avenir.*
