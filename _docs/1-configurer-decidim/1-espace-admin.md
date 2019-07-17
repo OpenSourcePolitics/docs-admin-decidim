@@ -1,5 +1,5 @@
 ---
-title: Accéder à l'espace d'administration
+title: 1.2 Accéder à l'espace d'administration
 category: 1. Configurer Decidim
 order: 3
 published: true
