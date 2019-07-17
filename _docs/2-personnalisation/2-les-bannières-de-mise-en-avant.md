@@ -2,6 +2,7 @@
 category: 2. Personnalisation
 order: 3
 title: 2.2 Les bannières de mise en avant
+published: true
 ---
 Plusieurs bannières vous permettent de valoriser des contenus spécifiques de la plateforme, par exemple une actualité importante ou un vote imminent.
 
@@ -14,6 +15,8 @@ Cette bannière secondaire peut se placer entre la description et la liste des c
 Si vous l’activez, elle apparaîtra sur __toutes les pages__ du site, au-dessus de la barre de navigation et généralement dans une couleur qui crée du contraste. Elle est donc très efficace pour __attirer les utilisateurs vers un contenu__.
 
 ![bannière d'actualité]({{site.baseurl}}/images/banniere_actu.png)
+
+Ces deux bannières sont donc à __réactualiser régulièrement__ afin d'engager les participants de manière plus efficace !
 
 --
 
