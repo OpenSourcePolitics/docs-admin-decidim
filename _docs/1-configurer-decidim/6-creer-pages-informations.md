@@ -31,4 +31,4 @@ Dans le cas spécifique de la page "**terms-and-conditions**", il est possible d
 
 --
 
-*Suite : Bravo, vous pouvez passer à la [deuxième partie consacrée aux utilisateurs]({{site.baseurl}}/2-utilisateurs/0-index/) !*
+*Suite : Bravo, vous pouvez passer à la [deuxième partie consacrée à la personnalisation]({{site.baseurl}}/2-personnalisation/0-index/) !*
