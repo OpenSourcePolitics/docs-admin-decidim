@@ -30,4 +30,4 @@ C'est au moment de la configuration d'une [concertation]({{site.baseurl}}/3-conc
 
 --
 
-*Suite : [Créer vos pages d'information]({{site.baseurl}}/1-configurer-decidim/6-creer-pages-informations/)*
+*Suite : [Les messages d'aide]({{site.baseurl}}/1-configurer-decidim/4-les-messages-d'aide/)*
