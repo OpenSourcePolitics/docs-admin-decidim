@@ -18,4 +18,4 @@ Copiez et collez le code dans le cadre _Eléments à ajouter entre les balises H
 
 --
 
-*Suite : [Déterminer un secteur]({{.site.baseurl}}/1-configurer-decidim/5-determiner-secteur-application)*
+*Suite : [Déterminer un secteur]({{.site.baseurl}}/1-configurer-decidim/5-determiner-secteur-application/)*
