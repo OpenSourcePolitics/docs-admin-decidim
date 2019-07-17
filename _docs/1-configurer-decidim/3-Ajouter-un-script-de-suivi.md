@@ -1,3 +1,8 @@
+---
+category: 1. Configurer Decidim
+order: 5
+title: 1.5 Ajouter un script de suivi
+---
 Decidim prend en charge l'intégration d'outils de suivi du trafic. Quel que soit celui que vous utilisez, vous devez normalement avoir quelques lignes de code qui constituent le **script de suivi**. 
 
 Le script de Matomo correspond par exemple à ceci :
