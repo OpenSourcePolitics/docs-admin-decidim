@@ -1,4 +1,8 @@
-
+---
+category: 2. Personnalisation
+order: 6
+title: 2.5 Demander la modification du code CSS
+---
 
 Nous pouvons principalement modifier la **couleur** de certains composants pour adapter Decidim à votre charte graphique :
 * Boutons et icônes
@@ -24,4 +28,4 @@ Pour ses composants, Decidim utilise principalement deux couleurs, définies par
 
 --
 
-*Suite : [Déterminer les secteurs]({{site.baseurl}}/1-configurer-decidim/5-determiner-secteur-application/)*
+*Suite : vous pouvez maintenant passer à la troisième partie : la [gestion des utilisateurs]({{site.baseurl}}/3-utilisateurs/0-index/) !*
