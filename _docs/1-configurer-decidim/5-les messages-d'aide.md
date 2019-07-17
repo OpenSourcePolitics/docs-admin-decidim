@@ -2,6 +2,7 @@
 category: 1. Configurer Decidim
 order: 7
 published: true
+title: 1.6 Les messages d'aide
 ---
 Dans "**Paramètres**", la page "**Sections d'aide**" vous permet d'entrer des messages d'aide spécifiques aux différents espaces, afin d'expliquer aux utilisateurs les objectifs, les spécificités ou encore les différences entre les différents espaces. Ces messages d'aide apparaissent ainsi pour les utilisateurs dans les différents espaces : 
 
