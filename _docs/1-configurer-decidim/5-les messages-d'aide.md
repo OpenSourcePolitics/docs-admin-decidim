@@ -11,3 +11,7 @@ Dans "**Paramètres**", la page "**Sections d'aide**" vous permet d'entrer des m
 Par exemple, pour l'espace Assemblées, vous pouvez imaginer un message d'aide comme celui-ci : 
 
 ![aide.png]({{site.baseurl}}/images/aide.png)
+
+--
+
+*Suite : [Créer vos pages d'information]({{site.baseurl}}/1-configurer-decidim/6-creer-pages-informations* 
