@@ -23,5 +23,4 @@ La première page "**Configuration**" permet de modifier les paramètres de dém
 
 *Les * désignent des champs obligatoires.*
 
-
-*Suite : [Configurer l'apparence de la page d'accueil]({{site.baseurl}}/1-configurer-decidim/3-apparence-page-accueil/)*
+*Suite : [Ajouter un script de suivi]({{site.baseurl}}/1-configurer-decidim/3-Ajouter-un-script-de-suivi/)*
