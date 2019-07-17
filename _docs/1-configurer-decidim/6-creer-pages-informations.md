@@ -1,5 +1,5 @@
 ---
-title: 1.6 Créer vos pages d'information
+title: 1.7 Créer vos pages d'information
 category: 1. Configurer Decidim
 order: 7
 published: true
