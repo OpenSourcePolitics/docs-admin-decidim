@@ -28,7 +28,6 @@ Dans le cas spécifique de la page "**terms-and-conditions**", il est possible d
 
 ![image 9.jpg]({{site.baseurl}}/images/image 9.jpg)
 
-
 --
 
 *Suite : Bravo, vous pouvez passer à la [deuxième partie consacrée à la personnalisation]({{site.baseurl}}/2-personnalisation/0-index/) !*
