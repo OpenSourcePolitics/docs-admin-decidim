@@ -1,7 +1,7 @@
 ---
 category: 3 Utilisateurs
 order: 5
-title: Les groupes d'utilisateurs
+title: 3.4 Les groupes d'utilisateurs
 published: true
 ---
 Pour valider un groupe d’utilisateurs, il faut se rendre dans le menu _Utilisateurs_ du back-office, puis dans _Groupes d’utilisateurs_. Cet espace regroupe tous les utilisateurs qui se sont inscrits en tant que _Organisation/Collectif_.
