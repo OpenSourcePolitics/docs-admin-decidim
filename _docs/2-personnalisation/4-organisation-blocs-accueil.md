@@ -1,7 +1,7 @@
 ---
 category: 2. Personnalisation
 order: 5
-title: 2.4 L'organisation des blocs de la page d'accueil
+title: Organisation des blocs de la page d'accueil
 ---
 
 --
