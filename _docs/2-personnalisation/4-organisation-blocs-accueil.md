@@ -1,7 +1,8 @@
 ---
 category: 2. Personnalisation
 order: 5
-title: Organisation des blocs de la page d'accueil
+title: 2.4 Organisation des blocs de la page d'accueil
+published: true
 ---
 Depuis la version 0.16 de Decidim, il est désormais plus simple de __modifier l'agencement des contenus__ de la page d'accueil. 
 
