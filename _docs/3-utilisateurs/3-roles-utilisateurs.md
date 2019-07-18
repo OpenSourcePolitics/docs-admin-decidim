@@ -24,8 +24,8 @@ Pour simplifier et récapituler les informations concernant les **différents r�
 |**Envoyer une lettre d’information**|X|X|X|X|OK|
 |**Créer une intiative**|X|OK|X|X|X|
 
-*Un espace privé et transparent = un espace visible aux non-membres
-Un espace privé et non-transparent = un espace non-visible aux non-membres*
+*Un espace privé et transparent = un espace visible aux non-membres*
+*Un espace privé et non-transparent = un espace non-visible aux non-membres*
 
 --
 
