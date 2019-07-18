@@ -17,7 +17,7 @@ Plusieurs informations leur sont demandées par le formulaire :
 * **Etat** : ⚠️ tant que vous n’aurez pas validé le compte, l’utilisateur qui l’a créé ne pourra pas s’en servir.
 * **Actions** : c’est ici que vous devez valider ✔️ ou bien rejeter ❌ la création du groupe d’utilisateurs.
 
-Une fois que le groupe d’utilisateur a été _vérifié_, un badge apparaît à côté de son nom sur la plateforme. Vous pouvez détailler la description de ce badge dans _Participants_.
+Une fois que le groupe d’utilisateur a été _vérifié_ , un badge apparaît à côté de son nom sur la plateforme. Vous pouvez détailler la description de ce badge dans _Participants_.
 
 --
 
