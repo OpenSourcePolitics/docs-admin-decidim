@@ -23,7 +23,7 @@ Depuis cette même page, l’utilisateur peut également mettre à jour son prof
 
 * Compte : permet d’éditer les nom, pseudonyme, email, lien vers un site personnel, description et mot de passe d’un utilisateur.
 * Paramètres des notifications : l’espace où il est possible d’**activer ou désactiver** la réception d’email pour chaque notification de la plateforme et pour **s’inscrire ou se désinscrire** de la lettre d’information/newsletter.
-* Autorisations : gère la **vérification de pièces d’identités** (à laquelle nous vous déconseillons de recourir).
+* Autorisations : gère la **vérification de pièces d’identités**.
 * Mes intérêts : permet de déclarer des centres d'intérêts pour personnaliser l'expérience de la plateforme.
 * Mes données : donne la possibilité de télécharger l'ensemble des données de l'utilisateur. 
 * Supprimer votre compte : possible et définitif.
