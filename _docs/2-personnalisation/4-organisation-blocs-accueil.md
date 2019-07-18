@@ -1,3 +1,9 @@
-## A New Post
+---
+category: 2. Personnalisation
+order: 5
+title: 2.4 L'organisation des blocs de la page d'accueil
+---
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+--
+
+*Suite : [Modification du code CSS]({{site.baseurl}}/2-personnalisation/5-modification-CSS/)*
