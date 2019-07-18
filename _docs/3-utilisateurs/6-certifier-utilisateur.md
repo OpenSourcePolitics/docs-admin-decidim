@@ -1,7 +1,7 @@
 ---
 category: 3 Utilisateurs
 order: 7
-title: Certifier un utilisateur
+title: 3.6 Certifier un utilisateur
 published: true
 ---
 Dans l’encart “Validations” une liste d’utilisateurs apparaît. Les nom, pseudonyme, date et heure de création, statut de vérification, macaron de validation sont indiqués. Plusieurs actions sont possibles pour l’administrateur : “**Valider**” ✔️, “**Valider de nouveau**” ✏️, “**Invalider**” ❌.
