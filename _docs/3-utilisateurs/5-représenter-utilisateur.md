@@ -1,7 +1,7 @@
 ---
 category: 3 Utilisateurs
 order: 6
-title: Représenter un utilisateur
+title: 3.5 Représenter un utilisateur
 published: true
 ---
 La fonction _Utilisateur représenté_ permet de contribuer sur la plateforme au nom d’une personne, qu'elle possède déjà un compte ou pas.
