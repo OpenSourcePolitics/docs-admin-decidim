@@ -1,7 +1,7 @@
 ---
 category: 2. Personnalisation
 order: 4
-title: 2.3 Les couleurs
+title: 2.3 Changer les couleurs
 ---
 Depuis la livraison d'un nouveau développement d'OSP pour Decidim, vous pouvez désormais __changer vous-mêmes les couleurs principales__ de votre plateforme. 
 
