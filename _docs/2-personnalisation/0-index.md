@@ -5,7 +5,7 @@ order: 1
 published: true
 ---
 
-Decidim permet de nombreuses modifications graphiques afin de correspondre au plus près à votre charte graphique. Cette partie est donc précisément consacrée à vous guider parmi les multiples possibilités de personnalisation.
+Decidim permet de __nombreuses modifications graphiques__ afin de correspondre au plus près à votre charte graphique. Cette partie est donc précisément consacrée à vous guider parmi les multiples possibilités de __personnalisation__.
 
 1. [Images, texte d'accueil et bouton principal]({{site.baseurl}}/2-personnalisation/1-images-texte-d-accueil-bouton-principal/)
 2. [Les bannières de mise en avant]({{site.baseurl}}/2-personnalisation/2-les-bannières-de-mise-en-avant/)
