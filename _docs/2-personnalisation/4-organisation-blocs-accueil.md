@@ -3,15 +3,15 @@ category: 2. Personnalisation
 order: 5
 title: Organisation des blocs de la page d'accueil
 ---
-Depuis la version 0.16 de Decidim, il est désormais plus simple de modifier l'agencement des contenus de la page d'accueil. 
+Depuis la version 0.16 de Decidim, il est désormais plus simple de __modifier l'agencement des contenus__ de la page d'accueil. 
 
 En cliquant dans l'espace d'administration sur _Paramètres_ puis _Page d'accueil_ , vous accèderez à la configuration de la page d'accueil. 
 
-Comme vous le voyez ci-dessous, chaque élément est transformé en un bloc que vous pouvez activer ou désactiver à loisir. 
+Comme vous le voyez ci-dessous, chaque élément est transformé en un __bloc__ que vous pouvez __ctiver ou désactiver__ à loisir. 
 
 ![blocs de la page d'accueil]({{site.baseurl}}/images/blocs_page_accueil.png)
 
-Vous pouvez donc personnaliser la page d'accueil comme vous le souhaitez !
+Vous pouvez donc __personnaliser la page d'accueil__ comme vous le souhaitez !
 
 --
 
