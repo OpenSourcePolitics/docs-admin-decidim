@@ -4,7 +4,7 @@ order: 8
 title: Les profils publics
 published: true
 ---
-En plus de l’avatar, du nom, de la présentation et de l’éventuel macaron de l’utilisateur (voir la page *[Certifier un utilisateur]({{site.baseurl}}/3-utilisateurs/6-certifier-utilisateur/)*) dans la colonne de gauche, le centre de la page regroupe plusieurs fils d'information :    
+En plus de l’avatar, du nom, de la présentation et de l’éventuel macaron de l’utilisateur (voir la page [Certifier un utilisateur]({{site.baseurl}}/3-utilisateurs/6-certifier-utilisateur/)) dans la colonne de gauche, le centre de la page regroupe plusieurs fils d'information :    
 * Centres d'intérêts : activité spécifique aux centres d'intérêts cochés dans le profil de l'utilisateur
 * Mon activité : notifications reçues et l'activité de l'utilisateur
 * Badges : reçus en fonction de l'activité de l'utilisateur
