@@ -4,7 +4,7 @@ order: 2
 title: 3.1 Inviter un administrateur
 published: true
 ---
-Pour inviter un administrateur/modérateur/relecteur, se rendre dans Utilisateurs > Administrateurs > cliquez sur “Nouveau”.
+Pour inviter un administrateur/modérateur/relecteur, se rendre dans _Utilisateurs_ > _Administrateurs_ > cliquez sur _Nouveau_.
 
 ![inviter un administrateur]({{site.baseurl}}/images/2-4-1-inviter-admin.png)
 
