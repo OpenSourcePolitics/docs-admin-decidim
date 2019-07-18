@@ -3,7 +3,7 @@ category: 2. Personnalisation
 order: 4
 title: 2.3 Les couleurs
 ---
-Depuis la livraison d'un nouveau développement d'OSP pour Decidim, vous pouvez désormais changer vous-mêmes les couleurs principales de votre plateforme. 
+Depuis la livraison d'un nouveau développement d'OSP pour Decidim, vous pouvez désormais __changer vous-mêmes les couleurs principales__ de votre plateforme. 
 
 Rendez-vous dans _Paramètres_ , puis dans _Apparence_. Vous aurez accès, tout en bas de la page, à une section contenant les différentes couleurs de votre plateforme (voir ci-dessous).
 
